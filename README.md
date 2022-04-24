@@ -1,2 +1,2 @@
-# pcefulwarrior.github.io
-My personal wiki
+# Habitus
+My non-linear personal wiki
